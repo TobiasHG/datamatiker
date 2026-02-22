@@ -1,0 +1,30 @@
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.exe
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.deps.json
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.runtimeconfig.json
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.dll
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.pdb
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.GeneratedMSBuildEditorConfig.editorconfig
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.AssemblyInfoInputs.cache
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.AssemblyInfo.cs
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.csproj.CoreCompileInputs.cache
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.sourcelink.json
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.dll
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\refint\Opgave Stars and stripes.dll
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.pdb
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.genruntimeconfig.cache
+C:\danpuds\datamatiker-intro\Opgaver\Tobias\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\ref\Opgave Stars and stripes.dll
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.exe
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.deps.json
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.dll
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\bin\Debug\net10.0\Opgave Stars and stripes.pdb
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.dll
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\refint\Opgave Stars and stripes.dll
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.pdb
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\Opgave Stars and stripes.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Stars and stripes\Opgave Stars and stripes\obj\Debug\net10.0\ref\Opgave Stars and stripes.dll

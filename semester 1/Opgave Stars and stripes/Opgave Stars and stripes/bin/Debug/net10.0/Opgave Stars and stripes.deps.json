@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Opgave Stars and stripes/1.0.0": {
+        "runtime": {
+          "Opgave Stars and stripes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave Stars and stripes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
