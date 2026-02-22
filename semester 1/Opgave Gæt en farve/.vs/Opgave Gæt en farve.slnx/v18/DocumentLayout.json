@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave G\u00E6t en farve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B38C03-6984-4BE4-BAC4-46E1C0F96F25}|Opgave G\u00E6t en farve\\Opgave G\u00E6t en farve.csproj|c:\\skole\\datamatiker\\semester 1\\opgave g\u00E6t en farve\\opgave g\u00E6t en farve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B38C03-6984-4BE4-BAC4-46E1C0F96F25}|Opgave G\u00E6t en farve\\Opgave G\u00E6t en farve.csproj|solutionrelative:opgave g\u00E6t en farve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave G\u00E6t en farve\\Opgave G\u00E6t en farve\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave G\u00E6t en farve\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave G\u00E6t en farve\\Opgave G\u00E6t en farve\\Program.cs",
+              "RelativeToolTip": "Opgave G\u00E6t en farve\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T19:58:35.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

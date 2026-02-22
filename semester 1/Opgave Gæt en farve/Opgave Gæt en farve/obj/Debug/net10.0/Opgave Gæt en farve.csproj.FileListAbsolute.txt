@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\bin\Debug\net10.0\Opgave Gæt en farve.exe
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\bin\Debug\net10.0\Opgave Gæt en farve.deps.json
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\bin\Debug\net10.0\Opgave Gæt en farve.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\bin\Debug\net10.0\Opgave Gæt en farve.dll
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\bin\Debug\net10.0\Opgave Gæt en farve.pdb
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.dll
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\refint\Opgave Gæt en farve.dll
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.pdb
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\Opgave Gæt en farve.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Gæt en farve\Opgave Gæt en farve\obj\Debug\net10.0\ref\Opgave Gæt en farve.dll
