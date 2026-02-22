@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Ball and cups\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC5BF10-B5E9-43D1-8026-9D6F05D3DB78}|Opgave Ball and cups\\Opgave Ball and cups.csproj|c:\\users\\harly\\onedrive\\documents\\csharp\\opgave ball and cups\\opgave ball and cups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC5BF10-B5E9-43D1-8026-9D6F05D3DB78}|Opgave Ball and cups\\Opgave Ball and cups.csproj|solutionrelative:opgave ball and cups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Ball and cups\\Opgave Ball and cups\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Ball and cups\\Program.cs",
+              "ToolTip": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Ball and cups\\Opgave Ball and cups\\Program.cs",
+              "RelativeToolTip": "Opgave Ball and cups\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T11:56:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
