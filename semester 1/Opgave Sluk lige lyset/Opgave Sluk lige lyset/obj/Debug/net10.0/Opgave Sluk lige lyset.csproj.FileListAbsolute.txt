@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\bin\Debug\net10.0\Opgave Sluk lige lyset.exe
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\bin\Debug\net10.0\Opgave Sluk lige lyset.deps.json
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\bin\Debug\net10.0\Opgave Sluk lige lyset.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\bin\Debug\net10.0\Opgave Sluk lige lyset.dll
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\bin\Debug\net10.0\Opgave Sluk lige lyset.pdb
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.dll
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\refint\Opgave Sluk lige lyset.dll
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.pdb
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\Opgave Sluk lige lyset.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Sluk lige lyset\Opgave Sluk lige lyset\obj\Debug\net10.0\ref\Opgave Sluk lige lyset.dll
