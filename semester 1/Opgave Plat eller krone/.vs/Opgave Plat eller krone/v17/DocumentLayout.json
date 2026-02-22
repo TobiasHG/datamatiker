@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Plat eller krone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1750249-84EE-4296-B861-EDC3EFF3EEE3}|Opgave Plat eller krone\\Opgave Plat eller krone.csproj|c:\\skole\\datamatiker\\semester 1\\opgave plat eller krone\\opgave plat eller krone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1750249-84EE-4296-B861-EDC3EFF3EEE3}|Opgave Plat eller krone\\Opgave Plat eller krone.csproj|solutionrelative:opgave plat eller krone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Plat eller krone\\Opgave Plat eller krone\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Plat eller krone\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Plat eller krone\\Opgave Plat eller krone\\Program.cs",
+              "RelativeToolTip": "Opgave Plat eller krone\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:19:47.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
