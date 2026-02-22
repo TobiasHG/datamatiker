@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Juleaften\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD169BA4-0B5B-45CF-8FAC-8933649058EB}|Opgave Juleaften\\Opgave Juleaften.csproj|c:\\users\\harly\\onedrive\\documents\\csharp\\opgave juleaften\\opgave juleaften\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD169BA4-0B5B-45CF-8FAC-8933649058EB}|Opgave Juleaften\\Opgave Juleaften.csproj|solutionrelative:opgave juleaften\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Juleaften\\Opgave Juleaften\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Juleaften\\Program.cs",
+              "ToolTip": "C:\\Users\\harly\\OneDrive\\Documents\\csharp\\Opgave Juleaften\\Opgave Juleaften\\Program.cs",
+              "RelativeToolTip": "Opgave Juleaften\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:41:58.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
