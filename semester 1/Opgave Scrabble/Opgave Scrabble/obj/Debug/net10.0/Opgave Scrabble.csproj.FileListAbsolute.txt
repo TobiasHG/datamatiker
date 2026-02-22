@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\bin\Debug\net10.0\Opgave Scrabble.exe
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\bin\Debug\net10.0\Opgave Scrabble.deps.json
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\bin\Debug\net10.0\Opgave Scrabble.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\bin\Debug\net10.0\Opgave Scrabble.dll
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\bin\Debug\net10.0\Opgave Scrabble.pdb
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.dll
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\refint\Opgave Scrabble.dll
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.pdb
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\Opgave Scrabble.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Scrabble\Opgave Scrabble\obj\Debug\net10.0\ref\Opgave Scrabble.dll
