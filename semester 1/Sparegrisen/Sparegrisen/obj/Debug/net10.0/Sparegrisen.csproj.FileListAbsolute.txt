@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\bin\Debug\net10.0\Sparegrisen.exe
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\bin\Debug\net10.0\Sparegrisen.deps.json
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\bin\Debug\net10.0\Sparegrisen.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\bin\Debug\net10.0\Sparegrisen.dll
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\bin\Debug\net10.0\Sparegrisen.pdb
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.sourcelink.json
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.dll
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\refint\Sparegrisen.dll
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.pdb
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\Sparegrisen.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Sparegrisen\Sparegrisen\obj\Debug\net10.0\ref\Sparegrisen.dll
