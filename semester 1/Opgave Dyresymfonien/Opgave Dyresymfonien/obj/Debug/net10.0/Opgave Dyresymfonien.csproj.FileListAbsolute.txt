@@ -1,0 +1,19 @@
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.csproj.AssemblyReference.cache
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\Opgave Dyresymfonien.exe
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\Opgave Dyresymfonien.deps.json
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\Opgave Dyresymfonien.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\Opgave Dyresymfonien.dll
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\Opgave Dyresymfonien.pdb
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave D.60B582D5.Up2Date
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.dll
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\refint\Opgave Dyresymfonien.dll
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.pdb
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\Opgave Dyresymfonien.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Dyresymfonien\Opgave Dyresymfonien\obj\Debug\net10.0\ref\Opgave Dyresymfonien.dll
