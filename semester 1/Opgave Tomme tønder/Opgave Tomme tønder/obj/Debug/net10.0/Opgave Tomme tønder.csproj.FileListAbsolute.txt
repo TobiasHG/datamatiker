@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\bin\Debug\net10.0\Opgave Tomme tønder.exe
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\bin\Debug\net10.0\Opgave Tomme tønder.deps.json
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\bin\Debug\net10.0\Opgave Tomme tønder.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\bin\Debug\net10.0\Opgave Tomme tønder.dll
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\bin\Debug\net10.0\Opgave Tomme tønder.pdb
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.dll
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\refint\Opgave Tomme tønder.dll
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.pdb
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\Opgave Tomme tønder.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Tomme tønder\Opgave Tomme tønder\obj\Debug\net10.0\ref\Opgave Tomme tønder.dll

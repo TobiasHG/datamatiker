@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Tomme t\u00F8nder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C88EA67-9F83-4C29-AF5E-14E12E0A7089}|Opgave Tomme t\u00F8nder\\Opgave Tomme t\u00F8nder.csproj|c:\\skole\\datamatiker\\semester 1\\opgave tomme t\u00F8nder\\opgave tomme t\u00F8nder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C88EA67-9F83-4C29-AF5E-14E12E0A7089}|Opgave Tomme t\u00F8nder\\Opgave Tomme t\u00F8nder.csproj|solutionrelative:opgave tomme t\u00F8nder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Tomme t\u00F8nder\\Opgave Tomme t\u00F8nder\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Tomme t\u00F8nder\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Tomme t\u00F8nder\\Opgave Tomme t\u00F8nder\\Program.cs",
+              "RelativeToolTip": "Opgave Tomme t\u00F8nder\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:12:11.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
