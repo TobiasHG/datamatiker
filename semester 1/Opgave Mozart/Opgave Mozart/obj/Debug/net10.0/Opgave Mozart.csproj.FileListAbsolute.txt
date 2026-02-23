@@ -1,0 +1,19 @@
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\Opgave Mozart.exe
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\Opgave Mozart.deps.json
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\Opgave Mozart.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\Opgave Mozart.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\Opgave Mozart.pdb
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\refint\Opgave Mozart.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.pdb
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\ref\Opgave Mozart.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave Mozart.csproj.AssemblyReference.cache
+C:\skole\datamatiker\semester 1\Opgave Mozart\Opgave Mozart\obj\Debug\net10.0\Opgave M.A711C783.Up2Date

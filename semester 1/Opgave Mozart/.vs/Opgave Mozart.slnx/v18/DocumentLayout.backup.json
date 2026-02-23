@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Mozart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15672DA4-7FC1-4CB7-B4A7-F41E1B76807D}|Opgave Mozart\\Opgave Mozart.csproj|c:\\skole\\datamatiker\\semester 1\\opgave mozart\\opgave mozart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15672DA4-7FC1-4CB7-B4A7-F41E1B76807D}|Opgave Mozart\\Opgave Mozart.csproj|solutionrelative:opgave mozart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Mozart\\Opgave Mozart\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Mozart\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Mozart\\Opgave Mozart\\Program.cs",
+              "RelativeToolTip": "Opgave Mozart\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:23:14.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
