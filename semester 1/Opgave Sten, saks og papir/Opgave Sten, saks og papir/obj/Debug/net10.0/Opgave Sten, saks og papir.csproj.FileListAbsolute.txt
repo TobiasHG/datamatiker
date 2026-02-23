@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\bin\Debug\net10.0\Opgave Sten, saks og papir.exe
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\bin\Debug\net10.0\Opgave Sten, saks og papir.deps.json
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\bin\Debug\net10.0\Opgave Sten, saks og papir.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\bin\Debug\net10.0\Opgave Sten, saks og papir.dll
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\bin\Debug\net10.0\Opgave Sten, saks og papir.pdb
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.dll
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\refint\Opgave Sten, saks og papir.dll
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.pdb
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\Opgave Sten, saks og papir.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Sten, saks og papir\Opgave Sten, saks og papir\obj\Debug\net10.0\ref\Opgave Sten, saks og papir.dll

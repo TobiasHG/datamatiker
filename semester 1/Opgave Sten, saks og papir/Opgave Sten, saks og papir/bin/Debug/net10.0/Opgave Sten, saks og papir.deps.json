@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Opgave Sten, saks og papir/1.0.0": {
+        "runtime": {
+          "Opgave Sten, saks og papir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave Sten, saks og papir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
