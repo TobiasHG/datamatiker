@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Opgave Vinos Blancos/1.0.0": {
+        "runtime": {
+          "Opgave Vinos Blancos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave Vinos Blancos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\bin\Debug\net10.0\Opgave Vinos Blancos.exe
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\bin\Debug\net10.0\Opgave Vinos Blancos.deps.json
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\bin\Debug\net10.0\Opgave Vinos Blancos.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\bin\Debug\net10.0\Opgave Vinos Blancos.dll
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\bin\Debug\net10.0\Opgave Vinos Blancos.pdb
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.dll
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\refint\Opgave Vinos Blancos.dll
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.pdb
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\Opgave Vinos Blancos.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Vinos Blancos\Opgave Vinos Blancos\obj\Debug\net10.0\ref\Opgave Vinos Blancos.dll
