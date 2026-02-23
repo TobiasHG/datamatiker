@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\bin\Debug\net10.0\Opgave Nim.exe
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\bin\Debug\net10.0\Opgave Nim.deps.json
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\bin\Debug\net10.0\Opgave Nim.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\bin\Debug\net10.0\Opgave Nim.dll
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\bin\Debug\net10.0\Opgave Nim.pdb
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.dll
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\refint\Opgave Nim.dll
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.pdb
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\Opgave Nim.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Nim\Opgave Nim\obj\Debug\net10.0\ref\Opgave Nim.dll
