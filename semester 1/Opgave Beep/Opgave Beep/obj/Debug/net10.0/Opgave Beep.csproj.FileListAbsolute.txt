@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\bin\Debug\net10.0\Opgave Beep.exe
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\bin\Debug\net10.0\Opgave Beep.deps.json
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\bin\Debug\net10.0\Opgave Beep.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\bin\Debug\net10.0\Opgave Beep.dll
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\bin\Debug\net10.0\Opgave Beep.pdb
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.dll
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\refint\Opgave Beep.dll
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.pdb
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\Opgave Beep.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Beep\Opgave Beep\obj\Debug\net10.0\ref\Opgave Beep.dll

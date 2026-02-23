@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Beep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2E6FB-3DE0-4EB4-B535-90F3E50716E0}|Opgave Beep\\Opgave Beep.csproj|c:\\skole\\datamatiker\\semester 1\\opgave beep\\opgave beep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2E6FB-3DE0-4EB4-B535-90F3E50716E0}|Opgave Beep\\Opgave Beep.csproj|solutionrelative:opgave beep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Beep\\Opgave Beep\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Beep\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Beep\\Opgave Beep\\Program.cs",
+              "RelativeToolTip": "Opgave Beep\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:51:29.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
