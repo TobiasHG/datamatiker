@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\bin\Debug\net10.0\Opgave Lufthavnsparkeringen.exe
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\bin\Debug\net10.0\Opgave Lufthavnsparkeringen.deps.json
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\bin\Debug\net10.0\Opgave Lufthavnsparkeringen.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\bin\Debug\net10.0\Opgave Lufthavnsparkeringen.dll
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\bin\Debug\net10.0\Opgave Lufthavnsparkeringen.pdb
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.dll
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\refint\Opgave Lufthavnsparkeringen.dll
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.pdb
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\Opgave Lufthavnsparkeringen.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Lufthavnsparkeringen\Opgave Lufthavnsparkeringen\obj\Debug\net10.0\ref\Opgave Lufthavnsparkeringen.dll
