@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\bin\Debug\net10.0\Opgave Strømforbruget.exe
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\bin\Debug\net10.0\Opgave Strømforbruget.deps.json
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\bin\Debug\net10.0\Opgave Strømforbruget.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\bin\Debug\net10.0\Opgave Strømforbruget.dll
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\bin\Debug\net10.0\Opgave Strømforbruget.pdb
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.dll
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\refint\Opgave Strømforbruget.dll
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.pdb
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\Opgave Strømforbruget.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Strømforbruget\Opgave Strømforbruget\obj\Debug\net10.0\ref\Opgave Strømforbruget.dll

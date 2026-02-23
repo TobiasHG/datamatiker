@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Str\u00F8mforbruget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A9C27A-3C3E-4828-B416-01097E389C0F}|Opgave Str\u00F8mforbruget\\Opgave Str\u00F8mforbruget.csproj|c:\\skole\\datamatiker\\semester 1\\opgave str\u00F8mforbruget\\opgave str\u00F8mforbruget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A9C27A-3C3E-4828-B416-01097E389C0F}|Opgave Str\u00F8mforbruget\\Opgave Str\u00F8mforbruget.csproj|solutionrelative:opgave str\u00F8mforbruget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Str\u00F8mforbruget\\Opgave Str\u00F8mforbruget\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Str\u00F8mforbruget\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Str\u00F8mforbruget\\Opgave Str\u00F8mforbruget\\Program.cs",
+              "RelativeToolTip": "Opgave Str\u00F8mforbruget\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:58:27.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
