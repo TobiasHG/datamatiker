@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\bin\Debug\net10.0\Opgave Rumskibet.exe
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\bin\Debug\net10.0\Opgave Rumskibet.deps.json
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\bin\Debug\net10.0\Opgave Rumskibet.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\bin\Debug\net10.0\Opgave Rumskibet.dll
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\bin\Debug\net10.0\Opgave Rumskibet.pdb
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.dll
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\refint\Opgave Rumskibet.dll
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.pdb
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\Opgave Rumskibet.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Rumskibet\Opgave Rumskibet\obj\Debug\net10.0\ref\Opgave Rumskibet.dll
