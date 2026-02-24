@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\bin\Debug\net10.0\Fordelingshatten.exe
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\bin\Debug\net10.0\Fordelingshatten.deps.json
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\bin\Debug\net10.0\Fordelingshatten.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\bin\Debug\net10.0\Fordelingshatten.dll
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\bin\Debug\net10.0\Fordelingshatten.pdb
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.sourcelink.json
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.dll
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\refint\Fordelingshatten.dll
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.pdb
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\Fordelingshatten.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Fordelingshatten\Fordelingshatten\obj\Debug\net10.0\ref\Fordelingshatten.dll
