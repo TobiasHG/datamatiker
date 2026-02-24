@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\bin\Debug\net10.0\Opgave DNA.exe
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\bin\Debug\net10.0\Opgave DNA.deps.json
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\bin\Debug\net10.0\Opgave DNA.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\bin\Debug\net10.0\Opgave DNA.dll
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\bin\Debug\net10.0\Opgave DNA.pdb
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.dll
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\refint\Opgave DNA.dll
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.pdb
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\Opgave DNA.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave DNA\Opgave DNA\obj\Debug\net10.0\ref\Opgave DNA.dll
