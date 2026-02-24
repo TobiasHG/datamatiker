@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "De 4 årstider/1.0.0": {
+        "runtime": {
+          "De 4 årstider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De 4 årstider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

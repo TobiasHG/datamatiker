@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\bin\Debug\net10.0\De 4 årstider.exe
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\bin\Debug\net10.0\De 4 årstider.deps.json
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\bin\Debug\net10.0\De 4 årstider.runtimeconfig.json
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\bin\Debug\net10.0\De 4 årstider.dll
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\bin\Debug\net10.0\De 4 årstider.pdb
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.sourcelink.json
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.dll
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\refint\De 4 årstider.dll
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.pdb
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\De 4 årstider.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\De 4 årstider\De 4 årstider\obj\Debug\net10.0\ref\De 4 årstider.dll
