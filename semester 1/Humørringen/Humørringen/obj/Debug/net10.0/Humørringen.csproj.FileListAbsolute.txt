@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.sourcelink.json
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\bin\Debug\net10.0\Humørringen.exe
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\bin\Debug\net10.0\Humørringen.deps.json
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\bin\Debug\net10.0\Humørringen.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\bin\Debug\net10.0\Humørringen.dll
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\bin\Debug\net10.0\Humørringen.pdb
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.dll
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\refint\Humørringen.dll
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.pdb
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\Humørringen.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Humørringen\Humørringen\obj\Debug\net10.0\ref\Humørringen.dll

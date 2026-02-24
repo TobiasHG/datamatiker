@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Hum\u00F8rringen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7A2FF-D237-4F55-9641-35F44D3F8F41}|Hum\u00F8rringen\\Hum\u00F8rringen.csproj|c:\\skole\\datamatiker\\semester 1\\hum\u00F8rringen\\hum\u00F8rringen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7A2FF-D237-4F55-9641-35F44D3F8F41}|Hum\u00F8rringen\\Hum\u00F8rringen.csproj|solutionrelative:hum\u00F8rringen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Hum\u00F8rringen\\Hum\u00F8rringen\\Program.cs",
+              "RelativeDocumentMoniker": "Hum\u00F8rringen\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Hum\u00F8rringen\\Hum\u00F8rringen\\Program.cs",
+              "RelativeToolTip": "Hum\u00F8rringen\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:52:32.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
