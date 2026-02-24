@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skole\\datamatiker\\semester 1\\Opgave Heksen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422503E1-1ED8-4EF4-9AEA-BF2872021CE6}|Opgave Heksen\\Opgave Heksen.csproj|c:\\skole\\datamatiker\\semester 1\\opgave heksen\\opgave heksen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422503E1-1ED8-4EF4-9AEA-BF2872021CE6}|Opgave Heksen\\Opgave Heksen.csproj|solutionrelative:opgave heksen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skole\\datamatiker\\semester 1\\Opgave Heksen\\Opgave Heksen\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave Heksen\\Program.cs",
+              "ToolTip": "C:\\skole\\datamatiker\\semester 1\\Opgave Heksen\\Opgave Heksen\\Program.cs",
+              "RelativeToolTip": "Opgave Heksen\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA1wD0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:17:07.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

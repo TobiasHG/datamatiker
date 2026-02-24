@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\bin\Debug\net10.0\Opgave Heksen.exe
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\bin\Debug\net10.0\Opgave Heksen.deps.json
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\bin\Debug\net10.0\Opgave Heksen.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\bin\Debug\net10.0\Opgave Heksen.dll
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\bin\Debug\net10.0\Opgave Heksen.pdb
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.dll
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\refint\Opgave Heksen.dll
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.pdb
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\Opgave Heksen.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Heksen\Opgave Heksen\obj\Debug\net10.0\ref\Opgave Heksen.dll
