@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\bin\Debug\net10.0\Opgave Kodeordet.exe
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\bin\Debug\net10.0\Opgave Kodeordet.deps.json
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\bin\Debug\net10.0\Opgave Kodeordet.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\bin\Debug\net10.0\Opgave Kodeordet.dll
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\bin\Debug\net10.0\Opgave Kodeordet.pdb
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.dll
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\refint\Opgave Kodeordet.dll
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.pdb
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\Opgave Kodeordet.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Kodeordet\Opgave Kodeordet\obj\Debug\net10.0\ref\Opgave Kodeordet.dll
