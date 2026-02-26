@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\bin\Debug\net10.0\Opgave Plastic fantastic.exe
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\bin\Debug\net10.0\Opgave Plastic fantastic.deps.json
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\bin\Debug\net10.0\Opgave Plastic fantastic.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\bin\Debug\net10.0\Opgave Plastic fantastic.dll
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\bin\Debug\net10.0\Opgave Plastic fantastic.pdb
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.dll
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\refint\Opgave Plastic fantastic.dll
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.pdb
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\Opgave Plastic fantastic.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Plastic fantastic\Opgave Plastic fantastic\obj\Debug\net10.0\ref\Opgave Plastic fantastic.dll
