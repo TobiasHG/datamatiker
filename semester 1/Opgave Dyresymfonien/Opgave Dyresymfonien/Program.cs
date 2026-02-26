@@ -38,7 +38,7 @@ namespace Opgave_Dyresymfonien
                 else
                 {
                     Console.WriteLine("Du gættede forkert, prøv igen.");
-                    Thread.Sleep(1000);
+                    Thread.Sleep(500);
                 }
 
                 

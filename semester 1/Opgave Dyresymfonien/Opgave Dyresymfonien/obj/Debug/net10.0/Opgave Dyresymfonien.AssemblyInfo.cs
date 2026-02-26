@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opgave Dyresymfonien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7468846d513b3dd03a8ef9deef8fe92e283c7faf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d082cb08814b0e1f4d5b24e13d95c0fc45da923")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opgave Dyresymfonien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opgave Dyresymfonien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

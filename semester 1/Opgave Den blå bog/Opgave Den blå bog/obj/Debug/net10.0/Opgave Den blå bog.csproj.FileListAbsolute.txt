@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\bin\Debug\net10.0\Opgave Den blå bog.exe
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\bin\Debug\net10.0\Opgave Den blå bog.deps.json
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\bin\Debug\net10.0\Opgave Den blå bog.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\bin\Debug\net10.0\Opgave Den blå bog.dll
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\bin\Debug\net10.0\Opgave Den blå bog.pdb
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.dll
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\refint\Opgave Den blå bog.dll
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.pdb
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\Opgave Den blå bog.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Den blå bog\Opgave Den blå bog\obj\Debug\net10.0\ref\Opgave Den blå bog.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opgave Mozart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43908ae395e064522a3289b21d06e7b8b8f15902")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d082cb08814b0e1f4d5b24e13d95c0fc45da923")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opgave Mozart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opgave Mozart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
