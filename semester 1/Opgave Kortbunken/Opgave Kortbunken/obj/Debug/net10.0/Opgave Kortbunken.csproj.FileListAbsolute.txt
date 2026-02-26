@@ -1,0 +1,15 @@
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\bin\Debug\net10.0\Opgave Kortbunken.exe
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\bin\Debug\net10.0\Opgave Kortbunken.deps.json
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\bin\Debug\net10.0\Opgave Kortbunken.runtimeconfig.json
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\bin\Debug\net10.0\Opgave Kortbunken.dll
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\bin\Debug\net10.0\Opgave Kortbunken.pdb
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.AssemblyInfoInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.AssemblyInfo.cs
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.csproj.CoreCompileInputs.cache
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.sourcelink.json
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.dll
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\refint\Opgave Kortbunken.dll
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.pdb
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\Opgave Kortbunken.genruntimeconfig.cache
+C:\skole\datamatiker\semester 1\Opgave Kortbunken\Opgave Kortbunken\obj\Debug\net10.0\ref\Opgave Kortbunken.dll
